@@ -1,6 +1,6 @@
 # docs: https://github.com/casey/just
 
-set export
+set export := true
 set dotenv-load := false
 
 # call 'just' to get help
