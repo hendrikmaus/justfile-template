@@ -1,4 +1,5 @@
 # docs: https://github.com/casey/just
+# tmpl: https://github.com/hendrikmaus/justfile-template
 
 set export := true
 set dotenv-load := false
